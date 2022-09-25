@@ -701,6 +701,11 @@ img {
     align-items: center;
     width: 100%;
   }
+  .work_details>.buttons{
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    margin: auto;
+  }
 }
 
 @media all and (min-width: 651px) and (max-width: 1124px){
