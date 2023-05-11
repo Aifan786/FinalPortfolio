@@ -659,7 +659,7 @@ img {
  }
  #skills_logo{
    display: grid;
-   grid-template-columns: repeat(8,1fr);
+   grid-template-columns: repeat(5,2fr);
    grid-gap: 20px;
    justify-content: center;
    align-items: center;
